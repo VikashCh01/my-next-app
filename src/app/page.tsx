@@ -53,7 +53,7 @@ const Resume = () => {
                     <FaUser className="title-icon" />
                     <h3>Professional Summary</h3>
                   </div>
-                  <div className="portfolio-link">
+                  {/* <div className="portfolio-link">
                     <a
                       href="https://vikash-portfolio-sage.vercel.app/"
                       className="portfolio-btn"
@@ -63,7 +63,7 @@ const Resume = () => {
                       <FaExternalLinkAlt className="btn-icon" />
                       View Portfolio
                     </a>
-                  </div>
+                  </div> */}
                 </div>
                 <p className="summary-text">
                   Full-Stack Developer with 2+ years of experience building scalable web applications using React.js, Next.js, Node.js, PHP (Laravel), and MySQL.
